@@ -7,7 +7,9 @@ The group member Registration numbers are as follows :
 
 The snake game that we have made initially done using left,right,up and down arrow keys.
 
+# Resourses
 
+Code for SnakeGame : http://zetcode.com/javascript/snake/
 
 # Link for heroku : https://mlsnakegame1289.herokuapp.com/index.html
 
